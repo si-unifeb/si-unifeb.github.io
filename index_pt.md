@@ -6,9 +6,9 @@
 
 # Menu
 
-[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](https://lucasfdcarvalho.github.io/unifeb.github.io/doscentes/docentes_pt.md) 
+[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](https://github.com/si-unifeb/si-unifeb.github.io/docentes/docentes_pt.md) 
 
-[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](https://lucasfdcarvalho.github.io/unifeb.github.io/discentes/discentes_pt.md)
+[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](https://github.com/si-unifeb/si-unifeb.github.io/discentes/discentes_pt.md)
 
 
 ### Código Fonte
