@@ -23,7 +23,7 @@
 
 [![Lucas Freitas de Carvalho](https://img.shields.io/badge/Lucas%20Freitas%20de%20Carvalho-302683?&color=gray&logo=github)](https://github.com/lucasfdcarvalho "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/lucasfdcarvalho)](https://github.com/lucasfdcarvalho)
 
-[![Filipe Aparecido Martins Breciani](https://img.shields.io/badge/Felipe%20Aparecido%20Martins%20Breciani-302683?&color=gray&logo=github)](https://github.com/Jubiscleisso "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Jubiscleisso)](https://github.com/Jubiscleisso)
+[![Filipe Aparecido Martins Breciani](https://img.shields.io/badge/Felipe%20Aparecido%20Martins%20Breciani-302683?&color=gray&logo=github)](https://github.com/Rhastt "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Rhastt)](https://github.com/Rhastt)
 
 [![Luís Gabriel Pollizeli Rosa](https://img.shields.io/badge/Lu%C3%ADs%20Gabriel%20Pollizeli%20Rosa-302683?&color=gray&logo=github)](https://github.com/LuiDynDev "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/LuiDynDev)](https://github.com/LuiDynDev)
 
@@ -32,6 +32,8 @@
 [![Leonardo Henrique Savan](https://img.shields.io/badge/Leonardo%20Henrique%20Savan-302683?&color=gray&logo=github)](https://github.com/Leo-Savan "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Leo-Savan)](https://github.com/Leo-Savan)
 
 [![Guilherme Jhony Teixeira Silva](https://img.shields.io/badge/Guilherme%20Jhony%20Teixeira%20Silva-302683?&color=gray&logo=github)](https://github.com/guijhony "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/guijhony)](https://github.com/guijhony)
+
+[![Gabriel Jorge Faria Silva](https://img.shields.io/badge/Gabriel%20Jorge%20Faria%20Silva-302683?&color=gray&logo=github)](https://github.com/Jubiscleisso "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Jubiscleisso)](https://github.com/Jubiscleisso)
 
 #### Orientador:
 
