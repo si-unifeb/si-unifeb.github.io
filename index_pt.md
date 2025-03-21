@@ -35,6 +35,8 @@
 
 [![Gabriel Jorge Faria Silva](https://img.shields.io/badge/Gabriel%20Jorge%20Faria%20Silva-302683?&color=gray&logo=github)](https://github.com/Jubiscleisso "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Jubiscleisso)](https://github.com/Jubiscleisso)
 
+[![Leonardo Henrique Savan](https://img.shields.io/badge/Leonardo%20Jorge%20Henrique%20Savan-302683?&color=gray&logo=github)](https://github.com/Leo-Savan "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/Leo-Savan)](https://github.com/Leo-Savan)
+
 #### Orientador:
 
 [![Miguel dos Santos Martins](https://img.shields.io/badge/Miguel%20dos%20Santos%20Martins-302683?&color=gray&logo=github)](https://github.com/omiguelsma "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/omiguelsma)](https://github.com/omiguelsma)
