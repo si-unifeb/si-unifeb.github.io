@@ -19,21 +19,7 @@
 
 #### Students:
 
-[![Lucas Freitas de Carvalho](https://img.shields.io/badge/Lucas%20Freitas%20de%20Carvalho-302683?&color=gray&logo=github)](https://github.com/lucasfdcarvalho "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/lucasfdcarvalho)](https://github.com/lucasfdcarvalho)
-
-[![Filipe Aparecido Martins Breciani](https://img.shields.io/badge/Felipe%20Aparecido%20Martins%20Breciani-302683?&color=gray&logo=github)](https://github.com/Rhastt "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/Rhastt)](https://github.com/Rhastt)
-
-[![Luís Gabriel Pollizeli Rosa](https://img.shields.io/badge/Lu%C3%ADs%20Gabriel%20Pollizeli%20Rosa-302683?&color=gray&logo=github)](https://github.com/LuiDynDev "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/LuiDynDev)](https://github.com/LuiDynDev)
-
-[![João Pedro Simionato Cerqueria](https://img.shields.io/badge/Jo%C3%A3o%20Pedro%20Simionato%20Cerqueira-302683?&color=gray&logo=github)](https://github.com/JOAOPEDROSCERQUEIRA "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/JOAOPEDROSCERQUEIRA)](https://github.com/JOAOPEDROSCERQUEIRA)
-
-[![Leonardo Henrique Savan](https://img.shields.io/badge/Leonardo%20Henrique%20Savan-302683?&color=gray&logo=github)](https://github.com/Leo-Savan "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/Leo-Savan)](https://github.com/Leo-Savan)
-
-[![Guilherme Jhony Teixeira Silva](https://img.shields.io/badge/Guilherme%20Jhony%20Teixeira%20Silva-302683?&color=gray&logo=github)](https://github.com/guijhony "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/guijhony)](https://github.com/guijhony)
-
-[![Gabriel Jorge Faria Silva](https://img.shields.io/badge/Gabriel%20Jorge%20Faria%20Silva-302683?&color=gray&logo=github)](https://github.com/Jubiscleisso "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/Jubiscleisso)](https://github.com/Jubiscleisso)
-
-[![Leonardo Henrique Savan](https://img.shields.io/badge/Leonardo%20Jorge%20Henrique%20Savan-302683?&color=gray&logo=github)](https://github.com/Leo-Savan "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/Leo-Savan)](https://github.com/Leo-Savan)
+[![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](/collaborators/initial.md)
 
 #### Advisor:
 
