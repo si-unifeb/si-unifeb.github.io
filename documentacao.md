@@ -179,3 +179,9 @@ Agora que o seu repositório local está configurado, é hora de adicionar o con
    - Após adicionar os arquivos, clique em **Commit changes** para finalizar.
 
 > **Nota:** Se o seu repositório já possuir um arquivo `README.md` criado automaticamente, você pode optar por substituí-lo ou mantê-lo, conforme sua preferência.
+
+---
+## 📚 Documentação de Implementação Detalhada
+Para ver como cada página e componente foi construído, acesse:
+➡️ [docs/detalhamento.md](docs/detalhamento.md)
+
