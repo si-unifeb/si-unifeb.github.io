@@ -14,8 +14,6 @@ Este documento mostra, passo a passo, como cada arquivo Markdown do projeto **si
 4. [Organização de Pastas e Páginas Temáticas](#organizacao-de-pastas-e-paginas-tematicas)
 5. [Descrição Detalhada de Cada Página](#descricao-detalhada-de-cada-pagina)
 6. [Como Criar Novas Páginas](#como-criar-novas-paginas)
-7. [Rodapé e Links Úteis](#rodape-e-links-uteis)
-8. [Publicação no GitHub Pages](#publicacao-no-github-pages)
 
 ---
 
@@ -229,11 +227,4 @@ Cada pasta segue mesma lógica:
 
 ---
 
-## 8. Publicação no GitHub Pages
-
-- Site publicado da branch `main`, pasta raiz.
-- Verifique em **Settings → Pages** se está `main / (root)`.
-- Sem configurações adicionais: Markdown é renderizado ao push.
-
----
 
