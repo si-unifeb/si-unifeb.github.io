@@ -53,7 +53,7 @@ O repositório modelo “si-unifeb.github.io” possui uma estrutura simples e o
   
   Você pode criar novas pastas, renomeá-las ou reorganizá-las de acordo com a necessidade do seu projeto, garantindo uma navegação mais intuitiva e organizada para os visitantes.
 
-- **Outros arquivos (imagens, etc.):**  
+- **Outros arquivos:**  
   Embora muitos projetos incluam arquivos CSS ou scripts para personalizar o visual e adicionar funcionalidades dinâmicas, **neste projeto o foco é a utilização de arquivos Markdown para o conteúdo**.  
   No entanto, você pode incluir imagens para enriquecer o conteúdo visual do seu site. Geralmente, as imagens podem ser organizadas em pastas específicas (por exemplo, `imagens/`) e inseridas nos arquivos Markdown usando a sintaxe:
   ```markdown
@@ -181,7 +181,7 @@ Agora que o seu repositório local está configurado, é hora de adicionar o con
 > **Nota:** Se o seu repositório já possuir um arquivo `README.md` criado automaticamente, você pode optar por substituí-lo ou mantê-lo, conforme sua preferência.
 
 ---
-## 📚 Documentação de Implementação Detalhada
+## Documentação de Implementação Detalhada
 Para ver como cada página e componente foi construído, acesse:
-➡️ [docs/detalhamento.md](docs/detalhamento.md)
+➡️ [Detalhamento](docs/detalhamento_implementacao.md)
 

@@ -84,16 +84,16 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 | Seção                 | Arquivo                              |
 |-----------------------|--------------------------------------|
-| Home PT               | `index_pt.md`                        |
-| Home EN               | `index_en.md`                        |
+| Página Inicial PT               | `index_pt.md`                        |
+| Página Inicial EN               | `index_en.md`                        |
 | Docentes PT           | `docentes/docentes_pt.md`            |
 | Docentes EN           | `docentes/docentes_en.md`            |
 | Discentes PT          | `discentes/discentes_pt.md`          |
 | Discentes EN          | `discentes/discentes_en.md`          |
 | Colaboradores PT      | `colaboradores/inicial.md`           |
 | Colaboradores EN      | `collaborators/initial.md`           |
-| Lista 2025 PT         | `colaboradores/2025/colaboradores.md`|
-| Lista 2025 EN         | `collaborators/2025/collaborators.md`|
+| Colaboradores 2025 PT         | `colaboradores/2025/colaboradores.md`|
+| Colaboradores 2025 EN         | `collaborators/2025/collaborators.md`|
 
 ---
 
@@ -118,9 +118,10 @@ Em todas as páginas, temos badges no topo que linkam para:
 │   └── 2025/
 │       └── collaborators.md
 ├── README.md
-├── documentação.md
 └── docs/
-    └── detalhamento.md
+    ├── detalhamento_implementacao.md
+    └── guia_publicacao.md
+
 ```
 
 ---
@@ -128,8 +129,8 @@ Em todas as páginas, temos badges no topo que linkam para:
 ## 5. Descrição Detalhada de Cada Página
 
 ### 5.1. `index_pt.md`
-- **Propósito**: página inicial em Português.
-- **Badges no topo**: link para a página em Inglês.
+- **Propósito**: Página inicial em Português.
+- **Badge no topo**: Link para a página em Inglês.
   ```markdown
   [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/index_en.md)
   ```
@@ -158,7 +159,15 @@ Em todas as páginas, temos badges no topo que linkam para:
 
     [![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)]()
 
-- **Colaboradores/Alunos:** Link para a página inicial de colaboradores.
+- **Código Fonte:** Badges que redirecionam para o repositório do projeto no GitHub, mostram a quantidade de estrelas e de forks.
+  ```markdown
+  [![CyberChase - si-unifeb.github.io](https://img.shields.io/static/v1?label=CyberChase&message=si-unifeb.github.io&color=black&logo=github)](https://github.com/si-unifeb/si-unifeb.github.io "Ir para o Repositório") [![stars - si-unifeb.github.io](https://img.shields.io/github/stars/si-unifeb/si-unifeb.github.io?style=social)](https://github.com/si-unifeb/si-unifeb.github.io) [![forks - unifeb.github.io](https://img.shields.io/github/forks/si-unifeb/si-unifeb.github.io?style=social)](https://github.com/si-unifeb/si-unifeb.github.io)
+  ```
+  - **Exibição:**
+
+    [![CyberChase - si-unifeb.github.io](https://img.shields.io/static/v1?label=CyberChase&message=si-unifeb.github.io&color=black&logo=github)]() [![stars - si-unifeb.github.io](https://img.shields.io/github/stars/si-unifeb/si-unifeb.github.io?style=social)]() [![forks - unifeb.github.io](https://img.shields.io/github/forks/si-unifeb/si-unifeb.github.io?style=social)]()   
+
+- **Alunos Colaboradores:** Link para a página inicial de colaboradores.
   ```markdown
   [![COLABORADORES](https://img.shields.io/static/v1?label=&message=COLABORADORES&color=%23009BD5&style=for-the-badge)](/colaboradores/inicial.md)
   ```
@@ -172,7 +181,7 @@ Em todas as páginas, temos badges no topo que linkam para:
   ``` 
   - **Exibição:**
 
-    [![Miguel dos Santos Martins](https://img.shields.io/badge/Miguel%20dos%20Santos%20Martins-302683?&color=gray&logo=github)](https://github.com/omiguelsma "Ir para o perfil GitHub") [![Seguidores](https://img.shields.io/github/followers/omiguelsma)](https://github.com/omiguelsma)
+    [![Miguel dos Santos Martins](https://img.shields.io/badge/Miguel%20dos%20Santos%20Martins-302683?&color=gray&logo=github)]() [![Seguidores](https://img.shields.io/github/followers/omiguelsma)]()
 
 - **Template Web**: Badge para o link do Template usado para a criação desse projeto.
   ```markdown
@@ -183,38 +192,76 @@ Em todas as páginas, temos badges no topo que linkam para:
     [![omiguelsma - omiguelsma.github.io](https://img.shields.io/static/v1?label=omiguelsma&message=omiguelsma.github.io&color=blue&logo=github)](https://github.com/omiguelsma/omiguelsma.github.io)
 
 ### 5.2. `index_en.md`
-- **Propósito**: página inicial em Inglês.
-- **Badges**:
+- **Propósito**: Página inicial em Inglês.
+- **Badge no topo**: Link para a página em Português
   ```markdown
-  [![PT](https://img.shields.io/static/v1?label=&message=PT&color=%23009BD5&style=for-the-badge)](/index_pt.md)
-  [![TEACHERS](https://img.shields.io/static/v1?label=&message=TEACHERS&color=%23009BD5&style=for-the-badge)](/docentes/docentes_en.md)
+  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/index_pt.md)
   ```
-- **Título**: `# About`.
-- **Conteúdo**: breve descrição do projeto em inglês.
+  - **Exibição:**
+
+    [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)]()
+
+
+- **Título**: `# About` com o mesmo conteúdo que a página em português, porém com o texto em inglês.
+  ```markdown
+  [![Information Systems UNIFEB](https://img.shields.io/badge/Information%20Systems_UNIFEB-302683?logo=htmlacademy)](https://vestibular.unifeb.edu.br/curso.php?id=28) [![UNIFEB Contact](https://img.shields.io/badge/UNIFEB_Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/551733216411) [![Instagram Information Systems UNIFEB](https://img.shields.io/badge/Instagram_Information_Systems_UNIFEB-8A2BE2?logo=instagram)](https://www.instagram.com/siunifeb/)
+  ```
+  - **Exibição:**
+
+    [![Information Systems UNIFEB](https://img.shields.io/badge/Information%20Systems_UNIFEB-302683?logo=htmlacademy)]() [![UNIFEB Contact](https://img.shields.io/badge/UNIFEB_Contact-25D366?logo=whatsapp&logoColor=white)]() [![Instagram Information Systems UNIFEB](https://img.shields.io/badge/Instagram_Information_Systems_UNIFEB-8A2BE2?logo=instagram)]()
+
+
+- **Menu**: Botões que redirecionam para os ``Faculty`` (Docentes) e ``Studentes`` (Discentes) respectivamente.
+  ```markdown
+  [![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)](/docentes/docentes_en.md) 
+
+  [![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.md)
+  ```
+  - **Exibição:**
+    
+    [![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)]() 
+
+    [![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)]()
+
+- **Source Code:** Badges que redirecionam para o repositório do projeto no GitHub, mostram a quantidade de estrelas e de forks.
+  ```markdown
+  [![CyberChase - si-unifeb.github.io](https://img.shields.io/static/v1?label=CyberChase&message=si-unifeb.github.io&color=black&logo=github)](https://github.com/si-unifeb/si-unifeb.github.io "Go to Repository") [![stars - si-unifeb.github.io](https://img.shields.io/github/stars/si-unifeb/si-unifeb.github.io?style=social)](https://github.com/si-unifeb/si-unifeb.github.io) [![forks - unifeb.github.io](https://img.shields.io/github/forks/si-unifeb/si-unifeb.github.io?style=social)](https://github.com/si-unifeb/si-unifeb.github.io)
+  ```
+  - **Exibição:**
+
+    [![CyberChase - si-unifeb.github.io](https://img.shields.io/static/v1?label=CyberChase&message=si-unifeb.github.io&color=black&logo=github)]() [![stars - si-unifeb.github.io](https://img.shields.io/github/stars/si-unifeb/si-unifeb.github.io?style=social)]() [![forks - unifeb.github.io](https://img.shields.io/github/forks/si-unifeb/si-unifeb.github.io?style=social)]()    
+  
+- **Collaborators:** Link para a página inicial de collaborators
+  ```markdown
+  [![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](/collaborators/initial.md)
+  ```
+  - **Exibição:**
+    
+    [![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)]()
+
+- **Advisor:** Badges com link para o perfil no GitHub e indicação do número de seguidores.
+  ```markdown
+  [![Miguel dos Santos Martins](https://img.shields.io/badge/Miguel%20dos%20Santos%20Martins-302683?&color=gray&logo=github)](https://github.com/omiguelsma "Go to GitHub Profile") [![Followers](https://img.shields.io/github/followers/omiguelsma)](https://github.com/omiguelsma)
+  ```
+  - **Exibição:**
+
+    [![Miguel dos Santos Martins](https://img.shields.io/badge/Miguel%20dos%20Santos%20Martins-302683?&color=gray&logo=github)]() [![Followers](https://img.shields.io/github/followers/omiguelsma)]()
+
+- **Web Template:** Badge para o link do Template usado para a criação desse projeto.
+  ```markdown
+  [![omiguelsma - omiguelsma.github.io](https://img.shields.io/static/v1?label=omiguelsma&message=omiguelsma.github.io&color=blue&logo=github)](https://github.com/omiguelsma/omiguelsma.github.io)
+  ```
+  - **Exibição:**
+    
+    [![omiguelsma - omiguelsma.github.io](https://img.shields.io/static/v1?label=omiguelsma&message=omiguelsma.github.io&color=blue&logo=github)]()
 
 ### 5.3. `docentes/` e `discentes/`
-Cada pasta segue mesma lógica:
 
-- **`docentes_pt.md`** / **`discentes_pt.md`**
-  - Badges para navegação (Home, EN, Discentes/Docentes).
-  - Título `# Docentes` ou `# Discentes`.
-  - Lista de nomes ou perfis.
 
-- **`docentes_en.md`** / **`discentes_en.md`**
-  - Versão em inglês com título `# Teachers` ou `# Students`.
 
 ### 5.4. `colaboradores/inicial.md` e `collaborators/initial.md`
-- **Propósito**: introdução à seção de colaboradores.
-- **Badges**: Home, idioma oposto, link para lista de 2025.
-- **Título**: `# Colaboradores` ou `# Collaborators`.
-- **Conteúdo**: explicação do propósito e navegação para arquivo de 2025.
 
-### 5.5. Listas de 2025
-- **`colaboradores/2025/colaboradores.md`**
-  - Badge para voltar à `inicial.md`.
-  - `# Colaboradores 2025` e lista dos nomes.
-- **`collaborators/2025/collaborators.md`**
-  - Equivalente em inglês: `# Collaborators 2025`.
+
 
 ---
 
