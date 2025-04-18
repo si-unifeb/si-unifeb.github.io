@@ -183,5 +183,5 @@ Agora que o seu repositório local está configurado, é hora de adicionar o con
 ---
 ## Documentação de Implementação Detalhada
 Para ver como cada página e componente foi construído, acesse:
-➡️ [Detalhamento](docs/detalhamento_implementacao.md)
+➡️ [Detalhamento](/docs/detalhamento_implementacao.md)
 
