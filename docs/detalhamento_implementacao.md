@@ -84,8 +84,8 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 | Seção                 | Arquivo                              |
 |-----------------------|--------------------------------------|
-| Página Inicial PT               | `index_pt.md`                        |
-| Página Inicial EN               | `index_en.md`                        |
+| Página Inicial PT               | `indexpt.md`                        |
+| Página Inicial EN               | `indexen.md`                        |
 | Docentes PT           | `docentes/docentes_pt.md`            |
 | Docentes EN           | `docentes/docentes_en.md`            |
 | Discentes PT          | `discentes/discentes_pt.md`          |
@@ -101,8 +101,8 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 ```text
 / (raiz)
-├── index_pt.md
-├── index_en.md
+├── indexpt.md
+├── indexen.md
 ├── docentes/
 │   ├── docentes_pt.md
 │   └── docentes_en.md
@@ -132,11 +132,11 @@ Em todas as páginas, temos badges no topo que linkam para:
 - **Propósito**: Página inicial em Português.
 - **Badge no topo**: Link para a página em Inglês.
   ```markdown
-  [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/index_en.md)
+  [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/indexen.md)
   ```
   - **Exibição:**
 
-    [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/index_en.md)
+    [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)]()
 
 - **Título**: `# Sobre` com Badges que redirecionam para os seguintes meios de contato: Curso de Sistemas de Informação(SI) da Unifeb, Whatsapp da Unifeb e Instagram de SI.
   ```markdown
@@ -195,7 +195,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 - **Propósito**: Página inicial em Inglês.
 - **Badge no topo**: Link para a página em Português
   ```markdown
-  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/index_pt.md)
+  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/indexpt.md)
   ```
   - **Exibição:**
 
