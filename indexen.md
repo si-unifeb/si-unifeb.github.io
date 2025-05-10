@@ -1,5 +1,5 @@
 ---
-permalink: /indexen.html
+permalink: /indexen
 ---
 
 [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/index)
