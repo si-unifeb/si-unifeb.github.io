@@ -10,9 +10,9 @@ title: Página Inicial
 
 # Menu
 
-[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](/docentes/docentes_pt.md) 
+[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/docentes/docentespt) 
 
-[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.md)
+[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/discentes/discentespt)
 
 
 ### Código Fonte
