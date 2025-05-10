@@ -10,11 +10,11 @@ permalink: /colaboradores/inicial
 
 ### Seja bem-vindo à página de colaboradores!  
 
-[![2025](https://img.shields.io/badge/2025-blue?style=for-the-badge)](/colaboradores/2025/colaboradores.md)                
+[![2025](https://img.shields.io/badge/2025-blue?style=for-the-badge)](https://si-unifeb.github.io/colaboradores/2025/colaboradores)                
 **2025:** Veja os colaboradores que fizeram a diferença neste ano.
 
-[![2026](https://img.shields.io/badge/2026-blue?style=for-the-badge)](/colaboradores/2026/)  
+[![2026](https://img.shields.io/badge/2026-blue?style=for-the-badge)](https://si-unifeb.github.io/colaboradores/2026/colaboradores)  
 **2026:** Conheça os colaboradores de 2026.
 
-[![2027](https://img.shields.io/badge/2027-blue?style=for-the-badge)](/colaboradores/2027/)  
+[![2027](https://img.shields.io/badge/2027-blue?style=for-the-badge)](https://si-unifeb.github.io/colaboradores/2027/colaboradores)  
 **2027:** Confira os colaboradores de 2027.

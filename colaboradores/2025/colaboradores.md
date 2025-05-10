@@ -1,4 +1,9 @@
-[![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](/colaboradores/inicial.md)
+---
+title: Colaboradores 2025
+permalink: /colaboradores/2025/colaboradores
+---
+
+[![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](ttps://si-unifeb.github.io/colaboradores/inicial)
 
 <br><br>
 

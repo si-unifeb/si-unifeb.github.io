@@ -1,4 +1,9 @@
-[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/collaborators/initial.md)
+---
+title: Collaborators 2025
+permalink: /collaborators/2025/collaborators
+---
+
+[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](ttps://si-unifeb.github.io/colaboradores/initial)
 
 <br><br>
 

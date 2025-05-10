@@ -9,11 +9,11 @@ permalink: /collaborators/initial
 
 ### Welcome to the collaborators' page!  
 
-[![2025](https://img.shields.io/badge/2025-blue?style=for-the-badge)](/collaborators/2025/collaborators.md)                
+[![2025](https://img.shields.io/badge/2025-blue?style=for-the-badge)](https://si-unifeb.github.io/collaborators/2025/collaborators)                
 **2025:** See the collaborators who made a difference this year.
 
-[![2026](https://img.shields.io/badge/2026-blue?style=for-the-badge)](/collaborators/2026/)  
+[![2026](https://img.shields.io/badge/2026-blue?style=for-the-badge)](https://si-unifeb.github.io/collaborators/2026/collaborators)  
 **2026:** Meet the collaborators of 2026.
 
-[![2027](https://img.shields.io/badge/2027-blue?style=for-the-badge)](/collaborators/2027/)  
+[![2027](https://img.shields.io/badge/2027-blue?style=for-the-badge)](https://si-unifeb.github.io/collaborators/2027/collaborators)  
 **2027:** Check out the collaborators of 2027.
