@@ -3,7 +3,7 @@ title: Collaborators 2025
 permalink: /collaborators/2025/collaborators
 ---
 
-[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/colaboradores/initial)
+[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/collaborators/initial)
 
 <br><br>
 
