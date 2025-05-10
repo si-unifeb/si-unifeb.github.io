@@ -1,4 +1,4 @@
-[![VOLTAR PARA A PÁGINA INICIAL](https://img.shields.io/static/v1?label=&message=VOLTAR+PARA+A+P%C3%81GINA+INICIAL&color=%23009BD5&style=for-the-badge)](/indexpt.md)
+[![VOLTAR PARA A PÁGINA INICIAL](https://img.shields.io/static/v1?label=&message=VOLTAR+PARA+A+P%C3%81GINA+INICIAL&color=%23009BD5&style=for-the-badge)](/index.md)
 
 # COLABORADORES
 

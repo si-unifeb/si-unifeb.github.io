@@ -84,7 +84,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 | Seção                 | Arquivo                              |
 |-----------------------|--------------------------------------|
-| Página Inicial PT               | `indexpt.md`                        |
+| Página Inicial PT               | `index.md`                        |
 | Página Inicial EN               | `indexen.md`                        |
 | Docentes PT           | `docentes/docentes_pt.md`            |
 | Docentes EN           | `docentes/docentes_en.md`            |
@@ -101,7 +101,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 ```text
 / (raiz)
-├── indexpt.md
+├── index.md
 ├── indexen.md
 ├── docentes/
 │   ├── docentes_pt.md
@@ -128,7 +128,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 ## 5. Descrição Detalhada de Cada Página
 
-### 5.1. `index_pt.md`
+### 5.1. `index.md`
 - **Propósito**: Página inicial em Português.
 - **Badge no topo**: Link para a página em Inglês.
   ```markdown
@@ -195,7 +195,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 - **Propósito**: Página inicial em Inglês.
 - **Badge no topo**: Link para a página em Português
   ```markdown
-  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/indexpt.md)
+  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/index.md)
   ```
   - **Exibição:**
 
