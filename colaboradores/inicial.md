@@ -1,6 +1,7 @@
 ---
 title: Página Inicial Colaboradores
 permalink: /colaboradores/inicial
+layout: default
 ---
 
 

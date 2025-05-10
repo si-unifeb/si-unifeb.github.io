@@ -1,6 +1,7 @@
 ---
 title: Colaboradores 2025
 permalink: /colaboradores/2025/colaboradores
+layout: default
 ---
 
 [![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/colaboradores/inicial)

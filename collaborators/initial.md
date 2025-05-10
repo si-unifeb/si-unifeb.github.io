@@ -1,6 +1,7 @@
 ---
 title: Collaborators Home Page
 permalink: /collaborators/initial
+layout: default
 ---
 
 [![BACK TO HOME PAGE](https://img.shields.io/static/v1?label=&message=BACK+TO+HOME+PAGE&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/indexen)
