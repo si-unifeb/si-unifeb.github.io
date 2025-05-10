@@ -1,4 +1,5 @@
 ---
+title: Home Page
 permalink: /indexen
 ---
 
@@ -23,7 +24,7 @@ permalink: /indexen
 
 #### Students:
 
-[![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](/collaborators/initial.md)
+[![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/collaborators/initial)
 
 #### Advisor:
 

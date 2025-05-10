@@ -1,4 +1,10 @@
-[![VOLTAR PARA A PÁGINA INICIAL](https://img.shields.io/static/v1?label=&message=VOLTAR+PARA+A+P%C3%81GINA+INICIAL&color=%23009BD5&style=for-the-badge)](/index.md)
+---
+title: Página Inicial Colaboradores
+permalink: /colaboradores/inicial
+---
+
+
+[![VOLTAR PARA A PÁGINA INICIAL](https://img.shields.io/static/v1?label=&message=VOLTAR+PARA+A+P%C3%81GINA+INICIAL&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/index)
 
 # COLABORADORES
 

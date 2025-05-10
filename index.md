@@ -1,5 +1,5 @@
 ---
-title: Bem-vindo ao SI Unifeb
+title: Página Inicial
 ---
 
 [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/indexen)
@@ -25,7 +25,7 @@ title: Bem-vindo ao SI Unifeb
 
 #### Alunos:
 
-[![COLABORADORES](https://img.shields.io/static/v1?label=&message=COLABORADORES&color=%23009BD5&style=for-the-badge)](/colaboradores/inicial.md) 
+[![COLABORADORES](https://img.shields.io/static/v1?label=&message=COLABORADORES&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/colaboradores/inicial) 
 
 #### Orientador:
 
