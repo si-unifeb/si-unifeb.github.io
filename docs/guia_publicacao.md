@@ -42,7 +42,7 @@ O repositório modelo “si-unifeb.github.io” possui uma estrutura simples e o
 - **README.md:**  
   Este arquivo contém informações gerais sobre o projeto, orientações iniciais e pode incluir parte desta documentação. Ele é o primeiro contato do usuário com o seu repositório, sendo importante para entender o propósito e as instruções básicas do site.
 
-- **index_pt.md e index_en.md:**  
+- **index.md e index_en.md:**  
   São as páginas iniciais do site, respectivamente em português e em inglês.  
 
 - **Pastas temáticas (ex.: `colaboradores`, `discentes`, `docentes`):**  

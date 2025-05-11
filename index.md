@@ -1,4 +1,4 @@
-[![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/indexen.html)
+[![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/index_en.html)
 
 # Sobre
 
@@ -6,9 +6,9 @@
 
 # Menu
 
-[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/docentes/docentespt) 
+[![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](/docentes/docentes_pt.html) 
 
-[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/discentes/discentespt)
+[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.html)
 
 
 ### Código Fonte

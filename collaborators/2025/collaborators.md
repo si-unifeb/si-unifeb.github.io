@@ -1,4 +1,4 @@
-[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/initial.html)
+[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/collaborators/initial.html)
 
 <br><br>
 

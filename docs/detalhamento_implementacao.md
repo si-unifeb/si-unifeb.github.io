@@ -16,7 +16,7 @@ Este documento mostra, passo a passo, como cada arquivo Markdown do projeto **si
 6. [Como Criar Novas Páginas](#como-criar-novas-paginas)
 
 ---
-
+<section id="formato-das-paginas">
 ## 1. Formato das Páginas
 
 - **Arquivos Markdown**: cada página é um arquivo `.md` que começa com badges para navegação e um título principal (`# Título`).
@@ -27,6 +27,9 @@ Este documento mostra, passo a passo, como cada arquivo Markdown do projeto **si
   ```
 
 ---
+</section>
+
+<section id="uso-de-badges-do-shieldsio">
 
 ## 2. Uso de Badges do Shields.io
 
@@ -77,6 +80,8 @@ Este documento mostra, passo a passo, como cada arquivo Markdown do projeto **si
     > **Importante:** Para descobrir quais logos estão disponíveis no Shields.io, consulte a biblioteca de ícones utilizada pela plataforma, disponível no GitHub na pasta ```icons``` . Confira [aqui](https://github.com/simple-icons/simple-icons)
 
 ---
+</section>
+<section id="estrutura-de-navegacao">
 
 ## 3. Estrutura de Navegação
 
@@ -85,7 +90,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 | Seção                 | Arquivo                              |
 |-----------------------|--------------------------------------|
 | Página Inicial PT               | `index.md`                        |
-| Página Inicial EN               | `indexen.md`                        |
+| Página Inicial EN               | `index_en.md`                        |
 | Docentes PT           | `docentes/docentes_pt.md`            |
 | Docentes EN           | `docentes/docentes_en.md`            |
 | Discentes PT          | `discentes/discentes_pt.md`          |
@@ -96,13 +101,15 @@ Em todas as páginas, temos badges no topo que linkam para:
 | Colaboradores 2025 EN         | `collaborators/2025/collaborators.md`|
 
 ---
+</section>
+<section id="organizacao-de-pastas-e-paginas-tematicas">
 
 ## 4. Organização de Pastas e Páginas Temáticas
 
 ```text
 / (raiz)
 ├── index.md
-├── indexen.md
+├── index_en.md
 ├── docentes/
 │   ├── docentes_pt.md
 │   └── docentes_en.md
@@ -123,8 +130,10 @@ Em todas as páginas, temos badges no topo que linkam para:
     └── guia_publicacao.md
 
 ```
+<section>
 
 ---
+<section id="descricao-detalhada-de-cada-pagina">
 
 ## 5. Descrição Detalhada de Cada Página
 
@@ -132,7 +141,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 - **Propósito**: Página inicial em Português.
 - **Badge no topo**: Link para a página em Inglês.
   ```markdown
-  [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/indexen.md)
+  [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/index_en.html)
   ```
   - **Exibição:**
 
@@ -149,9 +158,9 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 - **Menu:** Badges com links para subseções: Docentes, Discentes.
   ```markdown
-  [![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](/docentes/docentes_pt.md) 
+  [![DOCENTES](https://img.shields.io/static/v1?label=&message=DOCENTES&color=%23009BD5&style=for-the-badge)](/docentes/docentes_pt.html) 
 
-  [![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.md)
+  [![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.html)
   ```
   - **Exibição:**
 
@@ -169,7 +178,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 - **Alunos Colaboradores:** Link para a página inicial de colaboradores.
   ```markdown
-  [![COLABORADORES](https://img.shields.io/static/v1?label=&message=COLABORADORES&color=%23009BD5&style=for-the-badge)](/colaboradores/inicial.md)
+  [![COLABORADORES](https://img.shields.io/static/v1?label=&message=COLABORADORES&color=%23009BD5&style=for-the-badge)](/colaboradores/inicial.html)
   ```
   - **Exibição:**
 
@@ -195,7 +204,7 @@ Em todas as páginas, temos badges no topo que linkam para:
 - **Propósito**: Página inicial em Inglês.
 - **Badge no topo**: Link para a página em Português
   ```markdown
-  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/index.md)
+  [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/index.html)
   ```
   - **Exibição:**
 
@@ -213,9 +222,9 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 - **Menu**: Botões que redirecionam para os ``Faculty`` (Docentes) e ``Studentes`` (Discentes) respectivamente.
   ```markdown
-  [![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)](/docentes/docentes_en.md) 
+  [![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)](/docentes/docentes_en.html) 
 
-  [![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.md)
+  [![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.html)
   ```
   - **Exibição:**
     
@@ -233,7 +242,7 @@ Em todas as páginas, temos badges no topo que linkam para:
   
 - **Collaborators:** Link para a página inicial de collaborators
   ```markdown
-  [![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](/collaborators/initial.md)
+  [![COLLABORATORS](https://img.shields.io/static/v1?label=&message=COLLABORATORS&color=%23009BD5&style=for-the-badge)](/collaborators/initial.html)
   ```
   - **Exibição:**
     
@@ -261,9 +270,10 @@ Em todas as páginas, temos badges no topo que linkam para:
 
 ### 5.4. `colaboradores/inicial.md` e `collaborators/initial.md`
 
-
+<section>
 
 ---
+<section id="como-criar-novas-paginas">
 
 ## 6. Como Criar Novas Páginas
 
@@ -271,6 +281,8 @@ Em todas as páginas, temos badges no topo que linkam para:
 2. Copie o padrão de badges do topo de arquivos similares.
 3. Defina o título (`#`) e escreva o conteúdo.
 4. Commit & push: o GitHub Pages renderiza automaticamente.
+
+<section>
 
 ---
 

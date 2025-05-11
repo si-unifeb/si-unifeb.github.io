@@ -6,9 +6,9 @@
 
 # Menu
 
-[![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/docentes/docentesen) 
+[![FACULTY](https://img.shields.io/static/v1?label=&message=FACULTY&color=%23009BD5&style=for-the-badge)](/docentes/docentes_en.html) 
 
-[![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)](https://si-unifeb.github.io/discentes/discentesen)
+[![STUDENTS](https://img.shields.io/static/v1?label=&message=STUDENTS&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.html)
 
 ### Source Code
 
