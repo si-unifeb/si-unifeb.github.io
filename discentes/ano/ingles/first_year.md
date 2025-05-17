@@ -1,4 +1,4 @@
-[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.md) [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS%20PAGE%20IN%20PORTUGUESE&color=%23009BD5&style=for-the-badge)](/discentes/ano/ingles/primeiro_ano.html)
+[![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/discentes/discentes_en.html) [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS%20PAGE%20IN%20PORTUGUESE&color=%23009BD5&style=for-the-badge)](/discentes/ano/portugues/primeiro_ano.html)
 
 # First Year Students
 <div>
