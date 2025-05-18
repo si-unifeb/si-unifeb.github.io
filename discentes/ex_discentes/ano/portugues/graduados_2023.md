@@ -1,9 +1,6 @@
 [![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/graduados_pt.html) [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/ano/ingles/graduates_2023.html)
 
 # Graduados de 2023
-<div>
-  <img src="" alt="Avatar de Nome da Pessoa" width="100" style="border-radius: 50%;">
-</div>
 
 **Nome:** Fulano
 

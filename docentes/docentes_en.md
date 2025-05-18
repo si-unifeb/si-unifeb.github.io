@@ -1,9 +1,6 @@
 [![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/index_en.html) [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+PORTUGUESE&color=%23009BD5&style=for-the-badge)](/docentes/docentes_pt.html)
 
 # Information Systems Course Faculty
-<div>
-  <img src="" alt="Avatar of Person’s Name" width="100" style="border-radius: 50%;">
-</div>
 
 **Name:** Fulano
 

@@ -1,9 +1,6 @@
 [![BACK](https://img.shields.io/static/v1?label=&message=BACK&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/graduados_en.html) [![THIS PAGE IN PORTUGUESE](https://img.shields.io/static/v1?label=&message=THIS%20PAGE%20IN%20PORTUGUESE&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2009.html)
 
 # 2009 Graduates
-<div>
-  <img src="" alt="Avatar de Nome da Pessoa" width="100" style="border-radius: 50%;">
-</div>
 
 **Name:** Fulano
 
