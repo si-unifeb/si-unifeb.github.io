@@ -1,25 +1,10 @@
-[![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.html) [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/graduados_en.html)
+[![VOLTAR](https://img.shields.io/static/v1?label=&message=VOLTAR&color=%23009BD5&style=for-the-badge)](/discentes/discentes_pt.html)  [![ESTA PÁGINA EM INGLÊS](https://img.shields.io/static/v1?label=&message=ESTA+P%C3%81GINA+EM+INGL%C3%8AS&color=%23009BD5&style=for-the-badge)](/discentes/ex_discentes/graduados_en.html)
 
-# Graduados 
-<div>
-  <img src="" alt="Avatar de Nome da Pessoa" width="100" style="border-radius: 50%;">
-</div>
+# Graduados do Curso de SI
 
-**Nome:** Fulano
+**Escolha o ano para visualizar os graduados:**  
 
-**Área de atuação:** Programação Estruturada 
-
-**Linguagens de Programação:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24" style="vertical-align:middle;" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" width="24" height="24" style="vertical-align:middle;" />
-
-**Ferramentas:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="24" height="24" style="vertical-align:middle;" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="24" height="24" style="vertical-align:middle;" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="24" height="24" style="vertical-align:middle;" />
-
-**Idiomas:** Portugês Fluente e Inglês Intermediário
-
-**Ano de Formação:** 2020
-
-**Contatos:**
-
-[![Perfil do GitHub](https://img.shields.io/badge/GitHub-fulano-302683?&color=gray&logo=github)](https://github.com/fulano) [![Seguidores](https://img.shields.io/github/followers/fulano)](https://github.com/fulano)
-<a href="https://www.linkedin.com/in/usuario"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Git" width="24" height="24" /></a> 
+[![2007](https://img.shields.io/static/v1?label=&message=2007&color=607D8B&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2007.html)  [![2008](https://img.shields.io/static/v1?label=&message=2008&color=795548&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2008.html)  [![2009](https://img.shields.io/static/v1?label=&message=2009&color=3F51B5&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2009.html)  [![2010](https://img.shields.io/static/v1?label=&message=2010&color=4CAF50&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2010.html)  [![2011](https://img.shields.io/static/v1?label=&message=2011&color=F44336&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2011.html)  [![2012](https://img.shields.io/static/v1?label=&message=2012&color=FF9800&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2012.html)  [![2013](https://img.shields.io/static/v1?label=&message=2013&color=9C27B0&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2013.html)  [![2014](https://img.shields.io/static/v1?label=&message=2014&color=009688&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2014.html)  [![2015](https://img.shields.io/static/v1?label=&message=2015&color=CDDC39&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2015.html)  [![2016](https://img.shields.io/static/v1?label=&message=2016&color=E91E63&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2016.html)  
+[![2017](https://img.shields.io/static/v1?label=&message=2017&color=2196F3&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2017.html)  [![2018](https://img.shields.io/static/v1?label=&message=2018&color=8BC34A&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2018.html)  [![2019](https://img.shields.io/static/v1?label=&message=2019&color=FF5722&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2019.html)  [![2020](https://img.shields.io/static/v1?label=&message=2020&color=673AB7&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2020.html)  [![2021](https://img.shields.io/static/v1?label=&message=2021&color=00BCD4&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2021.html)  [![2022](https://img.shields.io/static/v1?label=&message=2022&color=FFEB3B&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2022.html)  [![2023](https://img.shields.io/static/v1?label=&message=2023&color=9E9D24&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2023.html)  [![2024](https://img.shields.io/static/v1?label=&message=2024&color=6D4C41&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2024.html)  [![2025](https://img.shields.io/static/v1?label=&message=2025&color=455A64&style=for-the-badge)](/discentes/ex_discentes/ano/portugues/graduados_2025.html)  
 
 ---
